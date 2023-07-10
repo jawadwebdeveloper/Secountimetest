@@ -4,6 +4,7 @@ import Preloader from './components/Preloader/Preloader';
 import Routeing from './components/Routers/Routeing';
 import About from './pages/About/About';
 import Contact from './pages/Contact/Contact';
+import Home from './pages/HomeArea/Home';
 import Projects from './pages/Projects/Projects';
 import Skills from './pages/Skills/Skills';
 
@@ -14,6 +15,7 @@ function App() {
       
       <Preloader/>
       <Routeing/>
+      <Home/>
       <About/>
       <Projects/>
       <Skills/>
