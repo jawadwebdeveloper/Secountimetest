@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mjawaddev/static/css/main.c2c348f9.css",
-    "main.js": "/mjawaddev/static/js/main.ce7d0d24.js",
+    "main.js": "/mjawaddev/static/js/main.d5fca545.js",
     "static/js/787.c4e7f8f9.chunk.js": "/mjawaddev/static/js/787.c4e7f8f9.chunk.js",
     "static/media/p2.png": "/mjawaddev/static/media/p2.9119310bcd6771530578.png",
     "static/media/p4.png": "/mjawaddev/static/media/p4.c78c61f03855cb3684cd.png",
@@ -10,9 +10,9 @@
     "static/media/p1.png": "/mjawaddev/static/media/p1.c2e8e508573ebcf58a6d.png",
     "static/media/css.png": "/mjawaddev/static/media/css.f11eb41c603396b240d8.png",
     "static/media/aboutone.jpeg": "/mjawaddev/static/media/aboutone.96442084782ea0eb81d1.jpeg",
+    "static/media/cvpic.png": "/mjawaddev/static/media/cvpic.2db3d850ce0ad5bfdeaa.png",
     "static/media/bootstrap.png": "/mjawaddev/static/media/bootstrap.5b6ec4d1c65b01c114f3.png",
-    "static/media/cvpic.png": "/mjawaddev/static/media/cvpic.48d5c5f5d18a961a958c.png",
-    "static/media/cvpdfg.pdf": "/mjawaddev/static/media/cvpdfg.307f80264add61e54f49.pdf",
+    "static/media/M Jawad Resume.pdf": "/mjawaddev/static/media/M Jawad Resume.52c1515c5e5b6514af9d.pdf",
     "static/media/bgtwo.png": "/mjawaddev/static/media/bgtwo.dabadca6aa241b40cf00.png",
     "static/media/mern.png": "/mjawaddev/static/media/mern.797f154ce5fcf7edb6fb.png",
     "static/media/js.jpg": "/mjawaddev/static/media/js.5648ae0aeb0182cbd857.jpg",
@@ -20,11 +20,11 @@
     "static/media/reactjs.png": "/mjawaddev/static/media/reactjs.c095bde5192319797a5f.png",
     "index.html": "/mjawaddev/index.html",
     "main.c2c348f9.css.map": "/mjawaddev/static/css/main.c2c348f9.css.map",
-    "main.ce7d0d24.js.map": "/mjawaddev/static/js/main.ce7d0d24.js.map",
+    "main.d5fca545.js.map": "/mjawaddev/static/js/main.d5fca545.js.map",
     "787.c4e7f8f9.chunk.js.map": "/mjawaddev/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2c348f9.css",
-    "static/js/main.ce7d0d24.js"
+    "static/js/main.d5fca545.js"
   ]
 }
