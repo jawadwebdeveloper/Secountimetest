@@ -9,6 +9,16 @@ import Projects from './pages/Projects/Projects';
 import Skills from './pages/Skills/Skills';
 
 function App() {
+
+  let docTitle = document.title;
+  window.addEventListener("blur",()=>{
+    document.title="Come Back plz 🙄";
+  });
+  window.addEventListener("focus",()=>{
+    document.title = docTitle;
+  });
+
+ 
   return (
     <>
     {/* <p class="example">Resize the browser window to see how the background color of this paragraph changes on different screen sizes.</p> */}
