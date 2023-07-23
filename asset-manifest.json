@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mjawaddev/static/css/main.134c0218.css",
-    "main.js": "/mjawaddev/static/js/main.c66b38f4.js",
+    "main.css": "/mjawaddev/static/css/main.ae6903cf.css",
+    "main.js": "/mjawaddev/static/js/main.3252ec3c.js",
     "static/js/787.c4e7f8f9.chunk.js": "/mjawaddev/static/js/787.c4e7f8f9.chunk.js",
     "static/media/p2.png": "/mjawaddev/static/media/p2.9119310bcd6771530578.png",
     "static/media/p4.png": "/mjawaddev/static/media/p4.c78c61f03855cb3684cd.png",
@@ -9,22 +9,26 @@
     "static/media/p5.png": "/mjawaddev/static/media/p5.3d065e35ffbbf7f82f4f.png",
     "static/media/p1.png": "/mjawaddev/static/media/p1.c2e8e508573ebcf58a6d.png",
     "static/media/css.png": "/mjawaddev/static/media/css.f11eb41c603396b240d8.png",
+    "static/media/instagrampic.png": "/mjawaddev/static/media/instagrampic.a8e33f65b9020ea10348.png",
+    "static/media/youtubepic.png": "/mjawaddev/static/media/youtubepic.c0b9ee80b13e13f73d4e.png",
+    "static/media/githubpic.png": "/mjawaddev/static/media/githubpic.9774f80cf8e9b795d6b7.png",
     "static/media/aboutone.jpeg": "/mjawaddev/static/media/aboutone.96442084782ea0eb81d1.jpeg",
     "static/media/cvpic.png": "/mjawaddev/static/media/cvpic.2db3d850ce0ad5bfdeaa.png",
     "static/media/bootstrap.png": "/mjawaddev/static/media/bootstrap.5b6ec4d1c65b01c114f3.png",
     "static/media/M Jawad Resume.pdf": "/mjawaddev/static/media/M Jawad Resume.52c1515c5e5b6514af9d.pdf",
+    "static/media/linkdinpic.png": "/mjawaddev/static/media/linkdinpic.d5107a13defdd96e15fb.png",
     "static/media/bgtwo.png": "/mjawaddev/static/media/bgtwo.dabadca6aa241b40cf00.png",
     "static/media/mern.png": "/mjawaddev/static/media/mern.797f154ce5fcf7edb6fb.png",
     "static/media/js.jpg": "/mjawaddev/static/media/js.5648ae0aeb0182cbd857.jpg",
     "static/media/html.png": "/mjawaddev/static/media/html.ff3cf75e3b7cbb4ea77c.png",
     "static/media/reactjs.png": "/mjawaddev/static/media/reactjs.c095bde5192319797a5f.png",
     "index.html": "/mjawaddev/index.html",
-    "main.134c0218.css.map": "/mjawaddev/static/css/main.134c0218.css.map",
-    "main.c66b38f4.js.map": "/mjawaddev/static/js/main.c66b38f4.js.map",
+    "main.ae6903cf.css.map": "/mjawaddev/static/css/main.ae6903cf.css.map",
+    "main.3252ec3c.js.map": "/mjawaddev/static/js/main.3252ec3c.js.map",
     "787.c4e7f8f9.chunk.js.map": "/mjawaddev/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.134c0218.css",
-    "static/js/main.c66b38f4.js"
+    "static/css/main.ae6903cf.css",
+    "static/js/main.3252ec3c.js"
   ]
 }
