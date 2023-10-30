@@ -30,6 +30,7 @@ function App() {
       <Projects/>
       <Skills/>
       <Contact/>
+
      
     </>
   );
